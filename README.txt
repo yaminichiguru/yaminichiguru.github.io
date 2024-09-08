@@ -1,34 +1,20 @@
-Highlights by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Website
+Welcome to the repository for my personal portfolio website! This website is designed to showcase my work, skills, and projects as a Cloud Data Engineer. Here, you'll find details about the technologies I use, the projects I've worked on, and my professional journey.
+
+Website Overview
+The website includes several sections:
+
+Home: A brief introduction about myself and what I do.
 
 
-Just a fun little single pager I whipped up to test out my new scroll events plugin
-(github.com/ajlkn/jquery.scrollex). Clean, simple, fully responsive, and loaded with
-all the usual pre-styled elements. Enjoy :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+About: More detailed information on my background, skills, and professional interests.
+Projects: A showcase of recent projects and contributions, each with a brief description, technologies used, and outcomes.
 
-(* = Not included)
+Contact: Ways to get in touch with me via email, LinkedIn, GitHub, or other social media channels.
+Technologies Used
+This site is built with:
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+HTML5
+CSS3: For styling and responsive design.
+JavaScript: For interactive elements.
