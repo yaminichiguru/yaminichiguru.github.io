@@ -6,7 +6,7 @@ The website includes several sections:
 
 # Home: A brief introduction about myself and what I do.
 
-![portfolio Diagram](Portfolio.jpg)
+![Portfolio](Portfolio.jpg)
 
 About: More detailed information on my background, skills, and professional interests.
 Projects: A showcase of recent projects and contributions, each with a brief description, technologies used, and outcomes.
