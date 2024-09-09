@@ -1,12 +1,12 @@
 # Portfolio Website
 Welcome to the repository for my personal portfolio website! This website is designed to showcase my work, skills, and projects as a Cloud Data Engineer. Here, you'll find details about the technologies I use, the projects I've worked on, and my professional journey.
 
-Website Overview
+ # Website Overview
 The website includes several sections:
 
-Home: A brief introduction about myself and what I do.
+# Home: A brief introduction about myself and what I do.
 
-
+![portfolio Diagram](Portfolio.jpg)
 
 About: More detailed information on my background, skills, and professional interests.
 Projects: A showcase of recent projects and contributions, each with a brief description, technologies used, and outcomes.
